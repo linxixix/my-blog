@@ -6,10 +6,37 @@
     <description>Recent content on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Dec 2016 21:49:57 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>FOOD</title>
+      <link>/2019/05/13/food/</link>
+      <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/05/13/food/</guid>
+      <description>肥宅最近吃的好吃的</description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/2019/05/13/r/</link>
+      <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/05/13/r/</guid>
+      <description> 艰难的学习R的路程 </description>
+    </item>
+    
+    <item>
+      <title>Study</title>
+      <link>/2019/05/13/study/</link>
+      <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/05/13/study/</guid>
+      <description>林居最近学习了吗</description>
+    </item>
     
     <item>
       <title>A Plain Markdown Post</title>

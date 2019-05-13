@@ -35,3 +35,10 @@ pie(
   init.angle = -50, border = NA
 )
 ```
+$ git config --global user.name "linxi"
+$ git config --global user.email "1059706818@qq.com"
+
+
+
+
+ 
